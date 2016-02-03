@@ -1,0 +1,16 @@
+Package: maRginaleffects
+Type: Package
+Title: Estimate Marginal Effects from Machine-Learning Models
+Version: 0.0.0.9999
+Date: 2016-02-02
+Authors@R: c(person(given = "Abhijit", family = "Dasgupta", role = "aut"),
+             person(given = "Tommy", family = "Jones", role = c("aut", "cre"),
+                    email = "jones.thos.w@gmail.com"))
+Description: Implements marginal effects estimation using probability machines.
+             Based on the paper "Risk estimation using probability machines" by
+             Dasgupta et. al. Provides (will provide - 02/02/2016) methods for
+             several models. Provides (will provide - 02/02/2016)
+             similarly-formatted results for marginal effects from parametric
+             models as well.
+License: GPL (>= 3)
+LazyData: TRUE
